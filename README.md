@@ -1,3 +1,9 @@
+# The white rabbit
+
+<div align="center">
+<img src="./images/down_the_rabbit_hole.webp" alt="Find out just how deep the habbit hole goes." width="400" height="400"/>
+</div>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
